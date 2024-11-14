@@ -33,6 +33,6 @@ open MovieBrowser/MovieBrowser.xcodeproj
 - SwiftUI: For the user interface.
 - Combine: For reactive programming, handling async data streams.
 - NavigationStack: For handling navigation between views.
-- 
+  
 ## License
 This project is licensed under the MIT License
