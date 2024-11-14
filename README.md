@@ -27,12 +27,12 @@ You can install **MovieBrowser** by cloning this repository and opening it in Xc
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/etayluz/MovieBrowser.git
-```bash
+```
 
 ### 2. Open the project in Xcode
 ```bash
 open MovieBrowser/MovieBrowser.xcodeproj
-```bash
+```
 
 ## Usage
 Once the project is set up, you can run the app on a simulator or device. The main screen will show a grid of movies, and you can tap on any movie to view its details.
